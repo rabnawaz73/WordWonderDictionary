@@ -36,7 +36,7 @@ WordWonder uses the free and open-source **Dictionary API** to fetch word data:
 ## 📸 Screenshots
 
 | Home Screen | Search Results | History |
-|![unnamed](https://github.com/user-attachments/assets/89ab5937-dc3d-4166-9048-4dddf1187d7b)
+|:-![unnamed](https://github.com/user-attachments/assets/89ab5937-dc3d-4166-9048-4dddf1187d7b)
 |:-![![unnamed (1)](https://github.com/user-attachments/assets/aec52e43-6c8c-4544-a1ae-027cb74c1d20)
 unnamed (2)](https://github.com/user-attachments/assets/40b7ec34-3dcc-4f3c-baf7-36c974e58d5a)
 --:|:-![unnamed (3)](https://github.com/user-attachments/assets/61c00464-b086-432e-9acf-d13b80b439bd)
@@ -76,4 +76,5 @@ lib/ ├── Models/ │ └── dictionary_model.dart # JSON serialization 
 
 **Rabnawaz**
 * GitHub: [rabnawaz73](https://github.com/rabnawaz73)
+
 
